@@ -45,13 +45,12 @@ Built on my own initiative while working as an SDR at a B2B SaaS startup:
 
 - **Investment Analyst Intern, Buenavista Equity** (private equity, 2025): analysed 10+ target companies, two of which became investments; built a valuation model with an associate; prepared a full acquisition case for the partners
 - **SDR, Gourmeats** (B2B SaaS, 2026): prospecting, HubSpot pipeline and the n8n system above
-- 🏅 1st Prize at iExpo, University of Pécs (Erasmus+, 2024) · 2nd National Prize, Entrepreneurship Competition (2021)
-- 📜 GitHub Foundations · Google AI Fundamentals · Microsoft Office Specialist: Excel
+
 
 ---
 
 ### 🌱 Right now
 
-Learning machine learning, NLP and generative AI in the Master's, and exploring **multi-agent systems with LLMs** for my thesis.
+Learning machine learning, NLP and generative AI in the Master's.
 
 📫 Let's talk on [LinkedIn](https://www.linkedin.com/in/luis-prados-6776a929a)
