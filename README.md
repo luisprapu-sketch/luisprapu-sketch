@@ -15,11 +15,6 @@ A voice and text banking call-centre assistant that runs locally, built as a tea
 - A decision engine weighs the cost of each error: **95% accuracy on 100 test cases vs 88% for the LLM alone, with zero serious errors**
 - Designed to comply with the EU AI Act and Spanish customer-service and mortgage-credit rules
 
-**⚙️ AI-powered sales prospecting system (n8n + LLMs)**
-Built on my own initiative while working as an SDR at a B2B SaaS startup:
-- **7 n8n workflows**: call queues, objection detection, pipeline management, meeting handoff via Google Calendar and coaching reports
-- LLMs integrated into several workflows, with prompts I wrote for automated summaries and reports
-- Alongside it, I booked **~30 qualified meetings a month**
 
 **🤖 Side projects:** custom GPTs, chatbots and AI agents, and websites built with AI tools.
 
