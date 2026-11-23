@@ -2,7 +2,7 @@
 
 **Business + AI.** Master's student in Data Science & AI at CUNEF (Madrid) with a double degree in Business Administration and Marketing (ESIC). I find where AI adds real business value and build the thing that delivers it: LLM workflows, agents and RAG assistants.
 
-📍 Madrid · 🎓 MSc Data Science & AI, CUNEF (2026–2027) · 💼 Open to internships from February 2027
+📍 Madrid · 🎓 MSc Data Science & AI, CUNEF (2026–2027) 
 
 ---
 
